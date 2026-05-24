@@ -1,0 +1,33 @@
+category,indicator,period,value,unit,source
+Prices,Housing market price growth (annual),2022 Q3,23.0,% y/y,"KSH Housing prices, housing price index, Q3 2022"
+Prices,Overall housing market price growth (annual),2023,5.8,% y/y,"KSH Housing prices, housing price index, Q4 2023"
+Prices,Housing market price growth (annual),2024 Q4,15.1,% y/y,MNB Housing Market Report – May 2025
+Prices,Housing market price growth (annual),2025 Q1 (KSH),12.5,% y/y,"KSH Housing prices, housing price index, Q1 2025"
+Prices,Housing market price growth (annual),2025 Q1 (MNB preliminary),15.0,% y/y,MNB Housing Market Report – May 2025
+Prices,Budapest housing price growth,2025 Q1,19.2,% y/y,MNB Housing Market Report – May 2025
+Prices,Second-hand housing price growth,2023,5.0,% y/y,"KSH Housing prices, housing price index, Q4 2023"
+Prices,New dwelling price growth,2023,11.5,% y/y,"KSH Housing prices, housing price index, Q4 2023"
+Prices,Second-hand housing price growth,2025 Q1,5.7,% y/y,"KSH Housing prices, housing price index, Q1 2025"
+Prices,New dwelling price growth,2025 Q1,2.3,% y/y,"KSH Housing prices, housing price index, Q1 2025"
+Demand,Housing market turnover,2023,-25.0,% y/y,"KSH Housing prices, housing price index, Q4 2023"
+Demand,Housing sales,2024 Q1,36.0,% y/y,"KSH Housing prices, housing price index, Q1 2024"
+Demand,Housing sales,2024 Q3,14.0,% y/y,"KSH Housing prices, housing price index, Q3 2024"
+Demand,Transactions nationwide,2025 Q1,7.0,% y/y,MNB Housing Market Report – May 2025
+Demand,Transactions in Budapest,2025 Q1,-24.0,% y/y,"KSH Housing prices, housing price index, Q1 2025"
+Demand,Transactions in county seats,2025 Q1,-5.9,% y/y,"KSH Housing prices, housing price index, Q1 2025"
+Demand,Properties sold above asking price (Budapest),2025 Q1,18.0,% of sales,MNB Housing Market Report – May 2025
+Demand,Properties sold above asking price (national),2025 Q1,8.3,% of sales,MNB Housing Market Report – May 2025
+Demand,Housing loan disbursements,2024 Q4,91.0,% y/y,MNB Housing Market Report – May 2025
+Supply,Completed new dwellings,2024,13300.0,units,MNB Housing Market Report – May 2025
+Supply,Completed new dwellings,2024,-29.0,% y/y,MNB Housing Market Report – May 2025
+Supply,Building permits issued,2024,20500.0,units,MNB Housing Market Report – May 2025
+Supply,Building permits issued,2024,-27.0,% y/y,MNB Housing Market Report – May 2025
+Supply,Domestic housing stock renewal rate,2024,0.29,%,MNB Housing Market Report – May 2025
+Supply,New apartments under construction,2025 Q1,21600.0,units,MNB Housing Market Report – May 2025
+Supply,Vacant new homes in Budapest,2025 Q1,-11.0,% y/y,MNB Housing Market Report – May 2025
+Affordability,Average gross earnings,2024,646600.0,HUF,"KSH Hungary, 2024"
+Affordability,Gross earnings growth,2024,13.2,% y/y,"KSH Hungary, 2024"
+Affordability,Real earnings growth,2024,9.0,% y/y,"KSH Hungary, 2024"
+Affordability,Housing prices above fundamentals,2024 Q4,14.3,%,MNB Housing Market Report – May 2025
+Affordability,Average new home price Budapest,2025 Q1,1680000.0,HUF/sqm,MNB Housing Market Report – May 2025
+Affordability,Price growth of new home sqm in Budapest,2025 Q1,14.0,% y/y,MNB Housing Market Report – May 2025

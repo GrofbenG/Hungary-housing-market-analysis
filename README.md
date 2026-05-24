@@ -1,58 +1,38 @@
-# Hungary Housing Market Analysis (2023–2025)
+# Hungary Housing Market Under Demand Pressure (2023-2025)
 
-## Objective
+Self-initiated portfolio project built from official KSH and MNB data.
 
-This project analyzes trends in the Hungarian housing market using official public datasets from KSH and MNB.
+## Why this project
 
-The goal was to understand how housing prices evolved relative to income growth, housing supply, and demand indicators.
+This case study combines:
 
----
+* data cleaning and structuring
+* housing market analysis
+* affordability / policy interpretation
+* CV-ready storytelling
 
-## Questions
+## Research question
 
-- How have housing prices changed over time?
-- Did income growth keep pace with price increases?
-- How did housing supply and demand evolve?
-- What structural patterns can be identified?
+How did Hungarian housing prices evolve in the last few years, and how do they compare with demand, supply and earnings?
 
----
+## Key findings
 
-## Tools Used
+* Housing prices slowed in 2023, then re-accelerated in 2024 and early 2025.
+* Demand recovered, but regional patterns were uneven.
+* Supply stayed weak: completions and permits fell in 2024.
+* Earnings rose, but not enough to remove affordability pressure.
 
-- Python
-- Pandas
-- SQL
-- Matplotlib
-- Excel
+## Sources
 
----
+Only official sources were used:
 
-## Data Sources
+* Hungarian Central Statistical Office (KSH)
+* Magyar Nemzeti Bank (MNB)
 
-- Hungarian Central Statistical Office (KSH)
-- Hungarian National Bank (MNB)
+## Project structure
 
----
+* `data/official\_snapshots.csv` - compiled official snapshot data
+* `figures/` - generated charts
+* `report/Housing\_Market\_Portfolio\_Project.docx` - polished write-up
+* `src/plot\_housing\_market.py` - script to regenerate the figures
 
-## Key Findings
-
-- Housing prices increased significantly during the observed period.
-- Supply-side indicators weakened while demand recovered.
-- Affordability pressures increased over time.
-
----
-
-## Project Structure
-
-- Data cleaning
-- Exploratory analysis
-- Visualization
-- Interpretation
-
----
-
-## Report
-
-See full report in:
-
-/report/Housing_Market_Portfolio_Project.pdf
